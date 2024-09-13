@@ -1,9 +1,13 @@
 /**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+╔═══════⟱═══════╗
 
-
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ▓「MUNGA-BOT」▓
+    ████████ 100%
+   
+    ▓▓▓▓▓▓▓▓▓▓▓▓
+    ✿————✦————✿
+  ╚═══════⟰═══════╝
 * @project_name MUNGA-BOT
 * @authors Mungai & <https://github.com/Mosesmungai>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
