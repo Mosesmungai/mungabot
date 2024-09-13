@@ -1,2 +1,2 @@
 # mungabot
-simpl wabot
+simple whatsapp personal bot
